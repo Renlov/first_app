@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Заказ_Кофе</string>
+    <string name="name">Имя</string>
+    <string name="toppings">Топинги</string>
+    <string name="cream_1">Сливки (+1$)</string>
+    <string name="chocolate_2">Шоколад (+2$)</string>
+    <string name="quantity">Количество</string>
+    <string name="order_summary">Итоговая сумма</string>
+    <string name="order">Заказать</string>
+    <string name="Dear">Уважаемый</string>
+    <string name="thx">Спасибо вам за ваш заказ</string>
+    <string name="topping1">вы взяли один топпинг</string>
+    <string name="cost">стоимость заказа $</string>
+    <string name="topping2">вы взяли два топинга</string>
+    <string name="dontTakeTopping">вы не взяли топинги</string>
+</resources>

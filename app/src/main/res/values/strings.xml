@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Coffe_order</string>
+    <string name="name">Name</string>
+    <string name="toppings">TOPPINGS!</string>
+    <string name="cream_1">Cream (+1$)</string>
+    <string name="chocolate_2">Chocolate (+2$)</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="order_summary">ORDER SUMMARY</string>
+    <string name="order">ORDER</string>
+    <string name="Dear">Dear</string>
+    <string name="thx">Thank u for your order</string>
+    <string name="topping1">u take a topping</string>
+    <string name="cost">cost is $</string>
+    <string name="topping2">u take two toppings</string>
+    <string name="dontTakeTopping">u dont take a toppings</string>
+</resources>
